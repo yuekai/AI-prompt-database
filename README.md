@@ -128,7 +128,8 @@ Free Documentation License". If not, see <https://www.gnu.org/licenses/fdl-1.3-s
 
 ## Citation
 If you find this repository, code or paper useful for your research, please cite it.
-
+* v0: [https://doi.org/10.6084/m9.figshare.25669170](https://doi.org/10.6084/m9.figshare.25669170)
+* v0.1: [![DOI](https://zenodo.org/badge/787061333.svg)](https://doi.org/10.5281/zenodo.15242741)
 ----
 
 Copyright © 2023 The Regents of the University of Michigan
